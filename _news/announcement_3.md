@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Honoured to have received the ECDP travel grant to present my latest work at ECDP 2024.
