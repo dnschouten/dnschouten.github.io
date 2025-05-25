@@ -23,18 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-honoured-to-have-received-the-ecdp-travel-grant-to-present-my-latest-work-at-ecdp-2024",
+          title: 'Honoured to have received the ECDP travel grant to present my latest work...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-joined-the-rusu-lab-at-stanford-university-as-a-visiting-researcher-to-work-on-ai-for-treatment-response-prediction-in-breast-cancer",
+          title: 'I joined the Rusu lab at Stanford University as a visiting researcher to...',
+          description: "",
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
