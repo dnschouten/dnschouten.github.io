@@ -26,15 +26,13 @@ ninja.data = [{
         },{id: "news-honoured-to-have-received-the-ecdp-travel-grant-to-present-my-latest-work-at-ecdp-2024",
           title: 'Honoured to have received the ECDP travel grant to present my latest work...',
           description: "",
+          section: "News",},{id: "news-our-latest-review-on-the-current-state-of-multimodal-ai-in-medicine-is-now-out-as-preprint-on-arxiv",
+          title: 'Our latest review on the current state of multimodal AI in medicine is...',
+          description: "",
           section: "News",},{id: "news-i-joined-the-rusu-lab-at-stanford-university-as-a-visiting-researcher-to-work-on-ai-for-treatment-response-prediction-in-breast-cancer",
           title: 'I joined the Rusu lab at Stanford University as a visiting researcher to...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
