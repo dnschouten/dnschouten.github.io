@@ -18,10 +18,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
-# latest_posts:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#   limit: 3 # leave blank to include all the blog posts
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am currently a final-year PhD candidate at the [Computational Pathology Group](https://computationalpathologygroup.eu/). My research interest primarily revolves around multimodal AI in medicine, with a focus on imaging modalities such as MRI and digital pathology.
