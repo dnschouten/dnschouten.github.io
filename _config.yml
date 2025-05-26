@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Daan
 middle_name:
 last_name: Schouten
-contact_note:
+contact_note: Please feel free to drop a line!
 description:
 footer_text:
 keywords: daan-schouten, machine-learning, deep-learning, histopathology, medical-imaging # add your own keywords or leave empty
@@ -43,7 +43,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
