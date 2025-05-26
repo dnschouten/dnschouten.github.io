@@ -24,6 +24,6 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a final-year PhD candidate at the [Computational Pathology Group](https://computationalpathologygroup.eu/). My research interest primarily revolves around multimodal AI in medicine, with a focus on imaging modalities such as MRI and digital pathology. 
+I am currently a final-year PhD candidate at the [Computational Pathology Group](https://computationalpathologygroup.eu/). My research interest primarily revolves around multimodal AI in medicine, with a focus on imaging modalities such as MRI and digital pathology.
 
 Medical imaging modalities are often complementary in nature, where each modality contributes unique information to a patient's status. To build truly capable AI models, we need to work on models that can transcend the boundaries of individual imaging modalities, make cross-modality predictions and learn from multimodal data. One of the projects I'm currently most passionate about aims to leverage pathology-specific information for MRI-based treatment response prediction in breast cancer.
