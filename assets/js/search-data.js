@@ -29,10 +29,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-the-rusu-lab-at-stanford-university-as-a-visiting-researcher-to-work-on-ai-for-treatment-response-prediction-in-breast-cancer",
           title: 'I joined the Rusu lab at Stanford University as a visiting researcher to...',
           description: "",
-          section: "News",},{id: "news-our-latest-review-on-the-current-state-of-multimodal-ai-in-medicine-is-now-out-as-preprint-on-arxiv",
-          title: 'Our latest review on the current state of multimodal AI in medicine is...',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
