@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate @ [Computational Pathology Group](https://computationalpathologygroup.eu/)
+subtitle: PhD Candidate @ <a href="https://computationalpathologygroup.eu/">Computational Pathology Group</a>
 
 profile:
   align: right
