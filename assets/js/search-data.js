@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-the-rusu-lab-at-stanford-university-as-a-visiting-researcher-to-work-on-ai-for-treatment-response-prediction-in-breast-cancer",
           title: 'I joined the Rusu lab at Stanford University as a visiting researcher to...',
           description: "",
+          section: "News",},{id: "news-i-presented-our-work-on-a-temporal-aware-deep-learning-method-for-non-invasive-her2-detection-during-the-experimental-design-ai-for-science-symposium-at-stanford",
+          title: 'I presented our work on a temporal-aware deep learning method for non-invasive HER2...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
