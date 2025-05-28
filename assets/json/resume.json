@@ -1,12 +1,11 @@
 {
-  "basics": {
+  "bio": {
     "name": "Daan Schouten",
-    "label": "PhD Candidate in Medical AI",
+    "role": "PhD Candidate in Medical AI",
     "image": "",
-    "email": "daan.schouten@radboudumc.nl",
+    "email": "daan.schouten at radboudumc dot nl",
     "phone": "",
-    "url": "https://dnschouten.github.io",
-    "summary": "Daan is a fourth-year PhD candidate at the Computational Pathology Group. His research mainly revolves around multimodal AI in medicine, with a focus on MRI and digital pathology in both prostate cancer and breast cancer."
+    "bio": "Daan is a fourth-year PhD candidate at the Computational Pathology Group. His research mainly revolves around multimodal AI in medicine, with a focus on MRI and digital pathology in both prostate cancer and breast cancer."
   },
   "work": [
     {
