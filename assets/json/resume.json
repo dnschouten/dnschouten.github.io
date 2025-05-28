@@ -47,15 +47,15 @@
   "awards": [
     {
       "title": "ECDP travel grant",
-      "date": "2024-06-01",
+      "date": "2024-06-08",
       "awarder": "European Congress of Digital Pathology",
-      "url": "https://www.ecdpath.org/travel-grants/",
+      "url": "",
       "summary": "The ECDP travel grant is awarded to young researchers with an accepted oral."
     }
   ],
   "publications": [
     {
-      "name": "Navigating the landscape of multimodal {AI} in medicine: a scoping review on technical challenges and clinical applications",
+      "name": "Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications",
       "publisher": "arXiv",
       "releaseDate": "2024-11-06",
       "url": "http://arxiv.org/abs/2411.03782"
