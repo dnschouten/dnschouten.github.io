@@ -10,25 +10,34 @@
   },
   "work": [
     {
-      "name": "Radboudumc, Nijmegen, The Netherlands",
+      "name": "Radboudumc",
       "position": "PhD Candidate",
+      "location": "Nijmegen (NL)",
       "startDate": "2022-02-01",
       "endDate": "2026-02-01",
+      "summary": "Developing multimodal AI models for prostate cancer and breast cancer diagnostics."
+    },
+    {
+      "name": "Stanford University",
+      "position": "Visiting Researcher",
+      "location": "Stanford (USA)",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-30",
       "summary": "Developing multimodal AI models for prostate cancer and breast cancer diagnostics."
     }
   ],
   "education": [
     {
-      "institution": "University of Twente, Enschede, The Netherlands",
-      "location": "Enschede, The Netherlands",
+      "institution": "University of Twente",
+      "location": "Enschede (NL)",
       "area": "Technical Medicine",
       "studyType": "MSc",
       "startDate": "2017-09-01",
       "endDate": "2021-08-30"
     },
     {
-      "institution": "University of Twente, Enschede, The Netherlands",
-      "location": "Enschede, The Netherlands",
+      "institution": "University of Twente",
+      "location": "Enschede (NL)",
       "area": "Technical Medicine",
       "studyType": "BSc",
       "startDate": "2014-09-01",
@@ -39,7 +48,7 @@
     {
       "title": "ECDP travel grant",
       "date": "2024-06-01",
-      "awarder": "European Congress of Pathology",
+      "awarder": "European Congress of Digital Pathology",
       "url": "https://www.ecdpath.org/travel-grants/",
       "summary": "The ECDP travel grant is awarded to young researchers with an accepted oral."
     }
@@ -59,7 +68,7 @@
     },
     {
       "name": "Full Resolution Three-Dimensional Reconstruction of Non-Serial Prostate Whole-Mounts: Pilot Validation and Initial Results",
-      "publisher": "ECDP",
+      "publisher": "European Congress of Digital Pathology",
       "releaseDate": "2024-06-08",
       "url": "https://www.diagnijmegen.nl/publications/scho24a/",
       "summary": ""
